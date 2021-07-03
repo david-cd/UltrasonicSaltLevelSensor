@@ -133,4 +133,4 @@ Wiring Diagram:
 
 You're DONE! Let me know if you have any issues or suggestions.
 
-*************ADD PHOTOS FOR HARDWARE SOLDERING AND INSTALLATION ONTO WATER SOFTENER********************
+*********** **STILL PENDING: ADD PHOTOS TO STEP 4 FOR HARDWARE SOLDERING AND INSTALLATION ONTO WATER SOFTENER** ******************
