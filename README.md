@@ -16,7 +16,6 @@ This video by DrZzs provides the starting point for this project: https://youtu.
 - LED (for status notifications)
 - Electronics Wires
 - Soldering iron
-- 
 
 **Optional:**
 
